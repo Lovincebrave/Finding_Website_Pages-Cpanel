@@ -17,4 +17,24 @@ An educational Python tool designed to help website owners identify exposed admi
 1. Clone the repository:
    ```bash
    git clone https://github.com/Lovincebrave/Finding_Website_Pages-Cpanel.git
-   cd admin-panel-finder
+   cd Admin_list_finder
+
+## Install dependencies
+pip install requests colorama
+
+## Run the script
+python Admin_list_finder.py http://example.com -t 10
+- Change it to any website you want to check 
+
+## Usage
+python Admin_list_finder.py <website_url> [-t <threads>]
+- <website_url>: The URL of the website to scan (e.g., http://example.com).
+- t <threads>: Number of threads for scanning (default: 10).
+- Results are saved to admin_scan_results.txt.
+
+
+
+
+
+
+
