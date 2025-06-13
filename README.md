@@ -32,6 +32,10 @@ python Admin_list_finder.py <website_url> [-t <threads>]
 - t <threads>: Number of threads for scanning (default: 10).
 - Results are saved to admin_scan_results.txt.
 
+## For any kind of help, support, suggetion and request ask in Telegram and Whatsapp
++2348108603409
+LovinceBrave   
+
 
 
 
